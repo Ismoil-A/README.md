@@ -1,7 +1,7 @@
-### Hey 👋🏽, I'm mr-shoxruxbek
+### Hey 👋🏽, I'm Ismoil
 
 
-Hi, I'm Shoxruxbek Maxmudoov, a Mobile Developer 🚀 from Uzbekistan.
+Hi, I'm Anvarov Ismoil, a Java back-end developer 🚀 from Uzbekistan.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -11,6 +11,6 @@ Hi, I'm Shoxruxbek Maxmudoov, a Mobile Developer 🚀 from Uzbekistan.
 - 🌱 I’m currently learning [Flutter](https://www.flutter.com/); 
 - 🤔 I’m looking for help with Data Structures and Algorithms;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: shohruh.maxmudov@mail.ru;
+- 📫 How to reach me: anvaroismoil@gmail.com;
 
 ![mr-shoxruxbek's github stats](https://github-readme-stats.vercel.app/api?username=mr-shoxruxbek&show_icons=true&hide_border=true)
